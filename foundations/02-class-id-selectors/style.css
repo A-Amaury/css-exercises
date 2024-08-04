@@ -3,7 +3,7 @@
   background-color: #FFC0CB;
 }
 
-.odd.diff {
+.adjust-font-size {
   font-size: 24px;
 }
 
@@ -13,7 +13,6 @@
 }
 
 #even-2 {
-  font-size: 24px;
   font-weight: bold;
   background-color: #90EE90;
 }
